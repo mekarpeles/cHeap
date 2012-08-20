@@ -37,18 +37,3 @@ int main() {
   //h.insert();
   return 1;
 }
-
-/*
-int find_max() {
-
-}
-
-int find_min() {
-
-}
-
-void insert() {
-
-}
-*/
-// def merge () {}
